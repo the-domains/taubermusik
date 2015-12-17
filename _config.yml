@@ -1,28 +1,40 @@
-name: taubermusik
-favicon: null
-layout_spectrum: 0.4114756644703448
-typography_spectrum: 0.007110679056495428
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.6702127
+  lightness: 0.7297872
+  brandStrength: 0.04664937173947692
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.04664937173947692
-  lightness: 0.36651255562901497
-  saturation: 0.08312437543645501
-  rhythmicContrast: 0.8557153285946697
-purpose: []
+  rhythmicContrast: 0.6191489
+typography_spectrum: 0.2702128
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2553191
+favicon: null
+name: taubermusik
