@@ -4,7 +4,7 @@
         <description><![CDATA[taubermusik]]></description>
         <link>https://thegrid.ai/taubermusik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 05:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 05:57:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/taubermusik/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/taubermusik/how-insensitive-by-jonastauber/index.html</link>
             <guid isPermaLink="false">70491cb1-38c8-4b0d-b2dc-d43484fbc31c</guid>
             <pubDate>Sun, 20 Dec 2015 05:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Please click on the "read more" which in this beta version hasn't jumped the hoop into "listen more" which is something I'd like to instigate, insinuate, insist upon, in general through all of our society, in all societies, everywhere...</p>]]></description>
+            <link>https://thegrid.ai/taubermusik/05c5870b-0886-4212-97b3-4bec50aea035/index.html</link>
+            <guid isPermaLink="false">05c5870b-0886-4212-97b3-4bec50aea035</guid>
+            <pubDate>Sun, 20 Dec 2015 05:56:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
