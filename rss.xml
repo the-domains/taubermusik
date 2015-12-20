@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[taubermusik]]></title>
         <description><![CDATA[taubermusik]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taubermusik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 00:55:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 00:56:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taubermusik/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/taubermusik/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">d92dad32-75cd-4fab-a76d-fddd203944f4</guid>
+            <pubDate>Sun, 20 Dec 2015 00:55:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!!]]></title>
             <description><![CDATA[<article><h1>Welcome!!</h1><p>This is going to be awesome! I plan to have sound samples here of the current most up to date recordings, literally like happening that day, for the listening pleasure of my potential audience: you!</p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/taubermusik/welcome/index.html</link>
             <guid isPermaLink="false">36b8c26b-eaf9-490c-ba58-d65eb6a8026e</guid>
             <pubDate>Sun, 20 Dec 2015 00:55:43 GMT</pubDate>
         </item>
