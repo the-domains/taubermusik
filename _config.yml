@@ -1,7 +1,7 @@
 name: taubermusik
 favicon: null
 layout_spectrum: 0.76522
-typography_spectrum: 0.2702128
+typography_spectrum: 0.2207
 collections:
   - index:
       path: /
