@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: taubermusik
+favicon: null
+layout_spectrum: 0.2553191
+typography_spectrum: 0.2702128
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6702127
-  lightness: 0.7297872
-  brandStrength: 0.04664937173947692
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  rhythmicContrast: 0.6191489
-typography_spectrum: 0.2702128
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.2553191
-favicon: null
-name: taubermusik
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#d9deda'
+    - '#11161c'
+    - '#374643'
+    - '#c87660'
+    - '#853f35'
+  brandStrength: 0.75
+  lightness: 0.7297872
+  saturation: 0.6702127
+  rhythmicContrast: 0.6191489
+purpose: []
